@@ -1,0 +1,1 @@
+CREATE TABLE users ( id text PRIMARY KEY, username text, password text, email text, identifiers list<text>);
